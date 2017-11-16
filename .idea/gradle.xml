@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/03_asynctask" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fengzhuang" />
+            <option value="$PROJECT_DIR$/lunbotu" />
+            <option value="$PROJECT_DIR$/multi08" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mylibrary" />
+            <option value="$PROJECT_DIR$/phone" />
+            <option value="$PROJECT_DIR$/pullToRefreshFlibrary" />
+            <option value="$PROJECT_DIR$/tablayout" />
+            <option value="$PROJECT_DIR$/xinwen" />
+            <option value="$PROJECT_DIR$/xlistview" />
+            <option value="$PROJECT_DIR$/yibu" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170831" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170901" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170902" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170907" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170908" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170909" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170912" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170913" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170914" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170915" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170916" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170921" />
+            <option value="$PROJECT_DIR$/zhoukao01text" />
+            <option value="$PROJECT_DIR$/zhoukaotest02" />
+            <option value="$PROJECT_DIR$/zhoutao01test01" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/03_asynctask" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fengzhuang" />
+            <option value="$PROJECT_DIR$/lunbotu" />
+            <option value="$PROJECT_DIR$/multi08" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/mylibrary" />
+            <option value="$PROJECT_DIR$/phone" />
+            <option value="$PROJECT_DIR$/pullToRefreshFlibrary" />
+            <option value="$PROJECT_DIR$/tablayout" />
+            <option value="$PROJECT_DIR$/xinwen" />
+            <option value="$PROJECT_DIR$/xlistview" />
+            <option value="$PROJECT_DIR$/yibu" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170831" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170901" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170902" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170907" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170908" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170909" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170912" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170913" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170914" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170915" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170916" />
+            <option value="$PROJECT_DIR$/zhanghaoqing20170921" />
+            <option value="$PROJECT_DIR$/zhoukao01text" />
+            <option value="$PROJECT_DIR$/zhoukaotest02" />
+            <option value="$PROJECT_DIR$/zhoutao01test01" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
